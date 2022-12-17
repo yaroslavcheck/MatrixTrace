@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\bin\Debug\net7.0\MatrixTrace.exe
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\bin\Debug\net7.0\MatrixTrace.deps.json
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\bin\Debug\net7.0\MatrixTrace.runtimeconfig.json
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\bin\Debug\net7.0\MatrixTrace.dll
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\bin\Debug\net7.0\MatrixTrace.pdb
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.dll
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\refint\MatrixTrace.dll
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.pdb
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\MatrixTrace.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\MatrixTrace\MatrixTrace\obj\Debug\net7.0\ref\MatrixTrace.dll
